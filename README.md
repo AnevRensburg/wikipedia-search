@@ -13,5 +13,4 @@ For every article, the title, the word count and a short snippet of the article 
 **Some of the concepts that form part of this project:**
 - Fetching data from an outside API
 - Communication between components
-- Typescript
 - Angular app security
